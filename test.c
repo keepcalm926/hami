@@ -5,6 +5,7 @@ int main(){
 	a=1;
 	b=2;
 	c=3;
+	d=4;
 	printf("%d,%d\n",a,b);
 	return 0;
 }
